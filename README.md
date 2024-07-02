@@ -14,7 +14,7 @@ Watch a demo of the Callbridge game in action: [Demo Video](https://youtu.be/sQA
 
 ## Tech Stack
 
-- **Language**: C++
+- **Language**: C
 - **Framework**: SDL (Simple DirectMedia Layer)
 - **Platform**: Desktop application
 
